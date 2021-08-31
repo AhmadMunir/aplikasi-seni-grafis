@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/khalila/AndroidStudioProjects/seni/build/webview_flutter/intermediates/incremental/mergeReleaseResources/merged.dir/values-sk/values-sk.xml",
+            "map": [
+                {
+                    "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/fbb4dd3de4ec7ae76283ad46c719d5a1/core-1.1.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/khalila/AndroidStudioProjects/seni/build/webview_flutter/intermediates/res/merged/release/values-sk/values-sk.xml",
+            "map": [
+                {
+                    "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/fbb4dd3de4ec7ae76283ad46c719d5a1/core-1.1.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

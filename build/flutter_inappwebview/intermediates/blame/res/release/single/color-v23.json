@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/flutter_inappwebview/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/e66b596ce1c4824adeac282c6a0e9df1/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/flutter_inappwebview/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/e66b596ce1c4824adeac282c6a0e9df1/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/flutter_inappwebview/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/e66b596ce1c4824adeac282c6a0e9df1/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/flutter_inappwebview/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/e66b596ce1c4824adeac282c6a0e9df1/appcompat-1.2.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/flutter_inappwebview/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/e66b596ce1c4824adeac282c6a0e9df1/appcompat-1.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/flutter_inappwebview/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/e66b596ce1c4824adeac282c6a0e9df1/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/flutter_inappwebview/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/e66b596ce1c4824adeac282c6a0e9df1/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/flutter_inappwebview/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/e66b596ce1c4824adeac282c6a0e9df1/appcompat-1.2.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/flutter_inappwebview/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/e66b596ce1c4824adeac282c6a0e9df1/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

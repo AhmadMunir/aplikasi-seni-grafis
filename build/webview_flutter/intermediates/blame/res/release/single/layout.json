@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/webview_flutter/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/fbb4dd3de4ec7ae76283ad46c719d5a1/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/webview_flutter/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/fbb4dd3de4ec7ae76283ad46c719d5a1/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/webview_flutter/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/fbb4dd3de4ec7ae76283ad46c719d5a1/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/webview_flutter/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/fbb4dd3de4ec7ae76283ad46c719d5a1/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/webview_flutter/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/fbb4dd3de4ec7ae76283ad46c719d5a1/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/khalila/AndroidStudioProjects/seni/build/webview_flutter/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/home/khalila/.gradle/caches/transforms-2/files-2.1/fbb4dd3de4ec7ae76283ad46c719d5a1/core-1.1.0/res/layout/custom_dialog.xml"
+    }
+]
