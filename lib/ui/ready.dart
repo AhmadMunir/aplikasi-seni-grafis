@@ -1,14 +1,14 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:seni/ui/home.dart';
-import 'package:seni/ui/ready.dart';
+import 'package:seni/ui/kikd.dart';
 
-class StartPage extends StatefulWidget {
+class Ready extends StatefulWidget {
   @override
-  StartPageState createState() => StartPageState();
+  ReadyState createState() => ReadyState();
 }
 
-class StartPageState extends State<StartPage> {
+class ReadyState extends State<Ready> {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
@@ -21,51 +21,36 @@ class StartPageState extends State<StartPage> {
               width: MediaQuery.of(context).size.width,
               fit: BoxFit.cover,
             ),
+            GestureDetector(
+              onTap: () {
+                Navigator.of(context).pop();
+              },
+              child: Padding(
+                padding: EdgeInsets.only(top: 20, left: 20),
+                child: Icon(
+                  Icons.arrow_back,
+                  size: 30,
+                ),
+              ),
+            ),
             Container(
               margin: EdgeInsets.only(top: 100, right: 40, left: 40),
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.start,
-                crossAxisAlignment: CrossAxisAlignment.start,
+                crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
+                  SizedBox(
+                    height: MediaQuery.of(context).size.height * 0.2,
+                  ),
                   Text(
-                    "Halo,",
+                    "Sudah siap untuk belajar?",
                     style: TextStyle(
                         fontFamily: "Geometri",
                         color: Colors.black,
-                        fontSize: 40),
+                        fontSize: 18),
                   ),
                   SizedBox(
-                    height: 10,
-                  ),
-                  Text(
-                    "Selamat datang",
-                    style: TextStyle(
-                        fontFamily: "Geometri",
-                        color: Colors.black,
-                        fontSize: 30),
-                  ),
-                  SizedBox(
-                    height: 10,
-                  ),
-                  Text(
-                    "di pelajaran",
-                    style: TextStyle(
-                        fontFamily: "Geometri",
-                        color: Colors.black,
-                        fontSize: 30),
-                  ),
-                  SizedBox(
-                    height: 10,
-                  ),
-                  Text(
-                    "SENI GRAFIS",
-                    style: TextStyle(
-                        fontFamily: "Geometri",
-                        color: Colors.black,
-                        fontSize: 40),
-                  ),
-                  SizedBox(
-                    height: 50,
+                    height: 30,
                   ),
                   // Container(child: ,)
                   Container(
@@ -75,7 +60,7 @@ class StartPageState extends State<StartPage> {
                       onTap: () {
                         Navigator.of(context).push(
                           MaterialPageRoute(
-                            builder: (context) => Ready(),
+                            builder: (context) => Kikd(),
                           ),
                         );
                       },
@@ -84,7 +69,7 @@ class StartPageState extends State<StartPage> {
                         width: MediaQuery.of(context).size.width * 0.8,
                         alignment: Alignment.center,
                         decoration: BoxDecoration(
-                          color: Colors.grey[400],
+                          color: Colors.red[100],
                           borderRadius: BorderRadius.circular(15),
                           border: Border.all(color: Colors.grey[800], width: 3),
                           boxShadow: [
@@ -98,7 +83,7 @@ class StartPageState extends State<StartPage> {
                         ),
                         child: Card(
                           clipBehavior: Clip.antiAlias,
-                          color: Colors.grey[400],
+                          color: Colors.red[100],
                           child: Text(
                             "AYO MULAI BELAJAR",
                             style: TextStyle(
