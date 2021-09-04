@@ -33,6 +33,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   asset_cache: ^1.0.0+1
   flutter_launcher_icons: ^0.9.1
+  flutter_chat_bubble: ^2.0.0
 
 dev_dependencies:
   flutter_test:
